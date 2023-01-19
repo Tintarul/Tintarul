@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tintarul
 - 👀 I’m interested in - nodejs, mongo, webdev
 - 🌱 I’m currently learning - nothing cause python and node are the best
-- 📫 How to reach me - tintarul@spoke-group.com
+- 📫 How to reach me - contact@bogdan-cristian.ro
